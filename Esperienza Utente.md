@@ -25,6 +25,8 @@ Ci sono alcuni aspetti chiave che vanno infatti analizzati durante il design: è
 ## Tips
 - *E' corretto associare il lavoro di UX/UI designer?* No, perché sono due tipi di lavoro completamente diversi; è come se un arredatore di interni progettasse una casa non tenendo conto delle esigenze dell'abitante, comprando dell'arredamento _bello_, ma _scomodo_. Chi si occupa di esperienza utente deve conoscere molto a fondo il target di utenti a cui il servizio si rivolge, prima di progettare delle interfacce o dei prodotti che possano essere giudicati "belli".
 
-## Riferimenti
-[Hick's Law series (YT)](https://www.youtube.com/watch?v=pbbTOzArcWQ&t=1s)
-[Regole di Fitts](https://www.interaction-design.org/literature/article/fitts-s-law-the-importance-of-size-and-distance-in-ui-design)
+## More on
+- [Hick's Law series (YT)](https://www.youtube.com/watch?v=pbbTOzArcWQ&t=1s)
+- [Regole di Fitts](https://www.interaction-design.org/literature/article/fitts-s-law-the-importance-of-size-and-distance-in-ui-design)
+- [La caffettiera del masochiesta](https://www.amazon.it/caffettiera-masochista-design-oggetti-quotidiani/dp/8809808592/ref=sr_1_1?s=books&ie=UTF8&qid=1519308867&sr=1-1&keywords=la+caffettiera+del+masochista)
+- [Usabilità. Individuare e risolvere i problemi](https://www.amazon.it/Usabilit%C3%A0-Individuare-risolvere-i-problemi/dp/8848125085/ref=sr_1_1?s=books&ie=UTF8&qid=1519308946&sr=1-1&keywords=usabilit%C3%A0)
